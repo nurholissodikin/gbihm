@@ -1,0 +1,26 @@
+akses server:
+
+vpn harus on
+
+https://tranyar.id/cpanel
+user:gbi
+pass:4k535Cpanel
+
+file manager -> public_html
+ 
+
+vpn harus on
+
+host : 103.65.237.34
+user : postgres
+pass : 4k535r00t!
+port : 5432
+db:
+
+
+server dak
+
+192.168.1.50
+ubuntu18
+aksesr00t
+
